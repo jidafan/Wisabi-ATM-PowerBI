@@ -24,5 +24,7 @@ The multi-layered PowerBi dashboard allows one to look at the trends, utilizatio
 
 ![image](https://github.com/jidafan/Wisabi-ATM-PowerBI/assets/141703009/a91bf3eb-46ee-48c1-bf46-56ed3c8ef143)
 
+Click [here](https://drive.google.com/file/d/18F-kmdb8WDloF_Y-OqKkaPKAf31lr5Wo/view?usp=drive_link) to download the dashboard
+
 ## Conclusion
 
